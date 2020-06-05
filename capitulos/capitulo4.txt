@@ -1,0 +1,2 @@
+Repositorios remotos
+Git permite tener repositorios en la nube.
