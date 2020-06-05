@@ -1,5 +1,7 @@
 Titulo 1
 este es un parrafo 1.
+este es un parrafo 2.
+este es un parrafo 3.
 
 ## Parte 2
 
